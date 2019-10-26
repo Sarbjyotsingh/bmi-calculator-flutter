@@ -22,6 +22,8 @@ class _InputPageState extends State<InputPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('BMI CALCULATOR'),
+        centerTitle: true,
+        leading: Icon(Icons.sort),
       ),
       body: Center(
         child: Text('Body Text'),
