@@ -10,9 +10,9 @@ BMI calculator app is  a Body Mass Index Calculator inspired by the beautiful de
 
 ##  Screenshots
 
-
+<p align="center">
 <img src ="bmi-calc-demo.gif">
-
+</p>
  
 ## Credits
 
